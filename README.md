@@ -1,6 +1,6 @@
 # python-IP-Meta
 Try RUN!
-$ python3 Ip-Founder.py -h
+
 ![image](https://user-images.githubusercontent.com/61277595/222111251-c00bad54-7946-4095-9c1e-a379b267eed2.png)
 
 Example1:
